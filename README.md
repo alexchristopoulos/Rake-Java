@@ -8,3 +8,8 @@ and the fact that it's Stoplist is generated automatically for each individual d
 With the constructor you can assign the stoplist via a String array(each cell is a stopword).
 Before running the algorithm a part of speech tagger should be used in order to decide which will be the stopwords and which words 
 will be the candidates ones.
+
+
+# Install
+import the file.
+run the algorithm with the constructor Rake(lines,stoplist).
